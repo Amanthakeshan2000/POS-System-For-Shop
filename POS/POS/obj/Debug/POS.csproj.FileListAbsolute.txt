@@ -1,0 +1,95 @@
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.Login.resources
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\bin\Debug\POS.exe
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\bin\Debug\POS.pdb
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.exe
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.pdb
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.GRN.resources
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.Home.resources
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.SalesInvoice.resources
+C:\Users\dhanu\Desktop\Temp\pos\POS\POS\obj\Debug\POS.InvoiceList.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\POS.exe
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\POS.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.GRN.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.Home.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.InvoiceList.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.Login.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.SalesInvoice.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.exe
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.dashboard.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.GRNController.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.invoice.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.repIssue.resources
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.forms.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.io.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.kernel.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.layout.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.pdfua.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Buffers.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Memory.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.ValueTuple.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.forms.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.io.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.kernel.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.layout.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\itext.pdfua.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Buffers.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Memory.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\System.ValueTuple.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\obj\Debug\POS.csproj.Up2Date
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.System.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.System.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.System.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Amantha Keshan\Desktop\POS\POS\POS\bin\Debug\de\PdfSharp.Charting.resources.dll
